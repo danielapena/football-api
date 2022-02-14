@@ -1,4 +1,4 @@
-# futbol-api
+# football-api
 
 Node.js application (rest api endpoint) that uses the futbol-data api to:
 
